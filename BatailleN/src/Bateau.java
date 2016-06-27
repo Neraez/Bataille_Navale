@@ -1,3 +1,4 @@
+//Classe bateau
 public class Bateau {
     private boolean horizontal;
     private Element[] element;
